@@ -1,0 +1,40 @@
+.css-test {
+    color: rgb(91, 180, 219);
+    font-size: larger;
+    height: 30px;
+    line-height: 30px;
+    padding: 0.5rem;
+    
+}
+
+li {
+    margin-left: 2rem;
+}
+
+.head { 
+    padding-top: 1rem;
+    padding-bottom: 0.2rem;
+}
+
+.box {
+    background-color: rgb(226, 217, 217);
+    border: 2px black;
+    max-width: 25rem;
+
+
+}
+
+.hr {
+    max-width: 95%;
+}
+
+.css-btn {
+    padding: 1rem 6rem;
+    margin: 0.5rem 0.5rem;
+    display:inline-block;
+    background-color: rgb(163, 220, 245);
+    color: rgb(5, 110, 122);
+    border-color: rgb(11, 11, 11);
+}
+
+
